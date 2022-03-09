@@ -11,3 +11,7 @@ Criar aplicação para o desafio DIO: Abstraindo um Bootcamp Usando Orientação
    - Getters e Setters
    - Reusabilidade
    - Classes e métodos abstratos
+
+ # FERRAMENTAS
+ - VS Code
+ - Java 11
