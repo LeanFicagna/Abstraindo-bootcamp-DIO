@@ -5,9 +5,9 @@ Criar aplicação para o desafio DIO: Abstraindo um Bootcamp Usando Orientação
  # 📚ASSUNTOS
  
  - Orientação a Objetos
- - - Polimorfismo
- - - Herança
- - - Encapsulamento
- - - Getters e Setters
- - - Reusabilidade
- - - Classes e métodos abstratos
+   - Polimorfismo
+   - Herança
+   - Encapsulamento
+   - Getters e Setters
+   - Reusabilidade
+   - Classes e métodos abstratos
